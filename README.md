@@ -9,7 +9,7 @@ A new Flutter project.
 ![image](https://github.com/Nour-2003/X-O-Game/assets/102908746/f0e7e05f-1a1f-4653-be9b-2a744b157c82)
 
 ![image](https://github.com/Nour-2003/X-O-Game/assets/102908746/1125447e-7ba8-41e8-b894-065644faa8a0)
-![image](https://github.com/Nour-2003/X-O-Game/assets/102908746/43361ed5-002f-4f69-aaaa-a6a3ea557cd3)
+![image](https://github.com/Nour-2003/X-O-Game/assets/102908746/0d3020d4-935c-439d-ba3f-a96ab5cc1a06)
 
 ![image](https://github.com/Nour-2003/X-O-Game/assets/102908746/bd416475-8594-49c7-9f37-a79b4ae3e951)
 
