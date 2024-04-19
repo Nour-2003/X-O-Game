@@ -3,14 +3,10 @@
 A new Flutter project.
 
 ## Getting Started
+![image](https://github.com/Nour-2003/X-O-Game/assets/102908746/4f69b086-b0fa-4506-8de7-527c33ab45af)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/Nour-2003/X-O-Game/assets/102908746/b02edb1f-7bfa-4485-87f9-af8eacd198cc)
+![image](https://github.com/Nour-2003/X-O-Game/assets/102908746/f0e7e05f-1a1f-4653-be9b-2a744b157c82)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/Nour-2003/X-O-Game/assets/102908746/1125447e-7ba8-41e8-b894-065644faa8a0)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
